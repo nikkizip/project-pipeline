@@ -2,7 +2,7 @@
 
 <project name="Rectangle-Build" default="main" basedir=".">
 
-<property
+<property environment="env"/>
 
 <!-- Sets variables which can later be used. -->
 
