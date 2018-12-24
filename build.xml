@@ -17,8 +17,8 @@
 
 <path id="class.path">
 
-<pathelement location="./bin" />
-
+<pathelement location="./lib/junit-4.10.jar" />
+<patheelement location="./bin" />
 </path>
 
 
